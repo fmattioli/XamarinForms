@@ -1,0 +1,1 @@
+C:\AppsXamarin\App05_Vagas\Vagas\Vagas\Vagas.UWP\Vagas.UWP.csproj;x86

@@ -1,0 +1,16 @@
+C:\AppsXamarin\App05_Vagas\Vagas\Vagas\Vagas\bin\Debug\netstandard2.0\Vagas.deps.json
+C:\AppsXamarin\App05_Vagas\Vagas\Vagas\Vagas\bin\Debug\netstandard2.0\Vagas.dll
+C:\AppsXamarin\App05_Vagas\Vagas\Vagas\Vagas\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\AppsXamarin\App05_Vagas\Vagas\Vagas\Vagas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\AppsXamarin\App05_Vagas\Vagas\Vagas\Vagas\obj\Debug\netstandard2.0\Vagas.csproj.CoreCompileInputs.cache
+C:\AppsXamarin\App05_Vagas\Vagas\Vagas\Vagas\obj\Debug\netstandard2.0\Vagas.AssemblyInfoInputs.cache
+C:\AppsXamarin\App05_Vagas\Vagas\Vagas\Vagas\obj\Debug\netstandard2.0\Vagas.AssemblyInfo.cs
+C:\AppsXamarin\App05_Vagas\Vagas\Vagas\Vagas\bin\Debug\netstandard2.0\Vagas.pdb
+C:\AppsXamarin\App05_Vagas\Vagas\Vagas\Vagas\obj\Debug\netstandard2.0\XamlC.stamp
+C:\AppsXamarin\App05_Vagas\Vagas\Vagas\Vagas\obj\Debug\netstandard2.0\Vagas.dll
+C:\AppsXamarin\App05_Vagas\Vagas\Vagas\Vagas\obj\Debug\netstandard2.0\Vagas.pdb
+C:\AppsXamarin\App05_Vagas\Vagas\Vagas\Vagas\obj\Debug\netstandard2.0\Pages\EditarVaga.xaml.g.cs
+C:\AppsXamarin\App05_Vagas\Vagas\Vagas\Vagas\obj\Debug\netstandard2.0\Pages\CadastrarVaga.xaml.g.cs
+C:\AppsXamarin\App05_Vagas\Vagas\Vagas\Vagas\obj\Debug\netstandard2.0\Pages\ConsultarVaga.xaml.g.cs
+C:\AppsXamarin\App05_Vagas\Vagas\Vagas\Vagas\obj\Debug\netstandard2.0\Pages\DetalheVaga.xaml.g.cs
+C:\AppsXamarin\App05_Vagas\Vagas\Vagas\Vagas\obj\Debug\netstandard2.0\Pages\VisualizarVaga.xaml.g.cs
