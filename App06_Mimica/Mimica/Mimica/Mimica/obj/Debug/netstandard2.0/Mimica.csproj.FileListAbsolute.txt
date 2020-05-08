@@ -1,0 +1,13 @@
+C:\AppsXamarin\App06_Mimica\Mimica\Mimica\Mimica\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\AppsXamarin\App06_Mimica\Mimica\Mimica\Mimica\obj\Debug\netstandard2.0\View\Inicio.xaml.g.cs
+C:\AppsXamarin\App06_Mimica\Mimica\Mimica\Mimica\obj\Debug\netstandard2.0\View\Jogo.xaml.g.cs
+C:\AppsXamarin\App06_Mimica\Mimica\Mimica\Mimica\obj\Debug\netstandard2.0\View\Resultado.xaml.g.cs
+C:\AppsXamarin\App06_Mimica\Mimica\Mimica\Mimica\obj\Debug\netstandard2.0\Mimica.csproj.CoreCompileInputs.cache
+C:\AppsXamarin\App06_Mimica\Mimica\Mimica\Mimica\obj\Debug\netstandard2.0\Mimica.AssemblyInfoInputs.cache
+C:\AppsXamarin\App06_Mimica\Mimica\Mimica\Mimica\obj\Debug\netstandard2.0\Mimica.AssemblyInfo.cs
+C:\AppsXamarin\App06_Mimica\Mimica\Mimica\Mimica\bin\Debug\netstandard2.0\Mimica.deps.json
+C:\AppsXamarin\App06_Mimica\Mimica\Mimica\Mimica\bin\Debug\netstandard2.0\Mimica.dll
+C:\AppsXamarin\App06_Mimica\Mimica\Mimica\Mimica\bin\Debug\netstandard2.0\Mimica.pdb
+C:\AppsXamarin\App06_Mimica\Mimica\Mimica\Mimica\obj\Debug\netstandard2.0\XamlC.stamp
+C:\AppsXamarin\App06_Mimica\Mimica\Mimica\Mimica\obj\Debug\netstandard2.0\Mimica.dll
+C:\AppsXamarin\App06_Mimica\Mimica\Mimica\Mimica\obj\Debug\netstandard2.0\Mimica.pdb

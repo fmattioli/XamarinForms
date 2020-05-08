@@ -1,0 +1,1 @@
+C:\AppsXamarin\App06_Mimica\Mimica\Mimica\Mimica.UWP\Mimica.UWP.csproj;x86
