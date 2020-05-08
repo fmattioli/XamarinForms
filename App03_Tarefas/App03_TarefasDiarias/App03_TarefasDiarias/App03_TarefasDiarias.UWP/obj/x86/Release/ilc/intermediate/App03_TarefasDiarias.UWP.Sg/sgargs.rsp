@@ -1,0 +1,12 @@
+﻿/ref:"C:\AppsXamarin\App03_TarefasDiarias\App03_TarefasDiarias\App03_TarefasDiarias\App03_TarefasDiarias.UWP\obj\x86\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Users\felip\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.1.8\tools\SharedLibrary\ret\AnalysisILToc"
+/ref:"C:\AppsXamarin\App03_TarefasDiarias\App03_TarefasDiarias\App03_TarefasDiarias\App03_TarefasDiarias.UWP\obj\x86\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\AppsXamarin\App03_TarefasDiarias\App03_TarefasDiarias\App03_TarefasDiarias\App03_TarefasDiarias.UWP\obj\x86\Release\ilc\in\\"
+/ref:"C:\Users\felip\.nuget\packages\runtime.win10-x86.microsoft.net.native.compiler\2.1.8\tools\x86\ilc\lib\Private\\"
+/ref:"C:\AppsXamarin\App03_TarefasDiarias\App03_TarefasDiarias\App03_TarefasDiarias\App03_TarefasDiarias.UWP\obj\x86\Release\ilc\in"
+/ref:"C:\AppsXamarin\App03_TarefasDiarias\App03_TarefasDiarias\App03_TarefasDiarias\App03_TarefasDiarias.UWP\obj\x86\Release\ilc\in\WinMetadata"
+/ca:System.Private.CoreLib
+/cscpath:"C:\Users\felip\.nuget\packages\microsoft.net.native.compiler\2.1.8\tools\csc"
+/out:"C:\AppsXamarin\App03_TarefasDiarias\App03_TarefasDiarias\App03_TarefasDiarias\App03_TarefasDiarias.UWP\obj\x86\Release\ilc\intermediate\SgGenerated\\"
+/int:"C:\AppsXamarin\App03_TarefasDiarias\App03_TarefasDiarias\App03_TarefasDiarias\App03_TarefasDiarias.UWP\obj\x86\Release\ilc\intermediate\App03_TarefasDiarias.UWP.Sg"
+"@C:\AppsXamarin\App03_TarefasDiarias\App03_TarefasDiarias\App03_TarefasDiarias\App03_TarefasDiarias.UWP\obj\x86\Release\ilc\intermediate\App03_TarefasDiarias.UWP.Sg\ComputedSerializationInput.txt"
