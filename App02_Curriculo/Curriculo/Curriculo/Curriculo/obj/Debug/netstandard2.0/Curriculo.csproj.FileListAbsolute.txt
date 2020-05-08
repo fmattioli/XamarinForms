@@ -1,0 +1,16 @@
+C:\MAPGIT\XamarinForms\PPs\App02_Curriculo\Curriculo\Curriculo\Curriculo\bin\Debug\netstandard2.0\Curriculo.deps.json
+C:\MAPGIT\XamarinForms\PPs\App02_Curriculo\Curriculo\Curriculo\Curriculo\bin\Debug\netstandard2.0\Curriculo.dll
+C:\MAPGIT\XamarinForms\PPs\App02_Curriculo\Curriculo\Curriculo\Curriculo\bin\Debug\netstandard2.0\Curriculo.pdb
+C:\MAPGIT\XamarinForms\PPs\App02_Curriculo\Curriculo\Curriculo\Curriculo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\MAPGIT\XamarinForms\PPs\App02_Curriculo\Curriculo\Curriculo\Curriculo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\MAPGIT\XamarinForms\PPs\App02_Curriculo\Curriculo\Curriculo\Curriculo\obj\Debug\netstandard2.0\Master\Menu.xaml.g.cs
+C:\MAPGIT\XamarinForms\PPs\App02_Curriculo\Curriculo\Curriculo\Curriculo\obj\Debug\netstandard2.0\Pages\Perfil.xaml.g.cs
+C:\MAPGIT\XamarinForms\PPs\App02_Curriculo\Curriculo\Curriculo\Curriculo\obj\Debug\netstandard2.0\Pages\Sobre.xaml.g.cs
+C:\MAPGIT\XamarinForms\PPs\App02_Curriculo\Curriculo\Curriculo\Curriculo\obj\Debug\netstandard2.0\Curriculo.csproj.CoreCompileInputs.cache
+C:\MAPGIT\XamarinForms\PPs\App02_Curriculo\Curriculo\Curriculo\Curriculo\obj\Debug\netstandard2.0\Curriculo.AssemblyInfoInputs.cache
+C:\MAPGIT\XamarinForms\PPs\App02_Curriculo\Curriculo\Curriculo\Curriculo\obj\Debug\netstandard2.0\Curriculo.AssemblyInfo.cs
+C:\MAPGIT\XamarinForms\PPs\App02_Curriculo\Curriculo\Curriculo\Curriculo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\MAPGIT\XamarinForms\PPs\App02_Curriculo\Curriculo\Curriculo\Curriculo\obj\Debug\netstandard2.0\Curriculo.dll
+C:\MAPGIT\XamarinForms\PPs\App02_Curriculo\Curriculo\Curriculo\Curriculo\obj\Debug\netstandard2.0\Curriculo.pdb
+C:\MAPGIT\XamarinForms\PPs\App02_Curriculo\Curriculo\Curriculo\Curriculo\obj\Debug\netstandard2.0\Pages\Educacional.xaml.g.cs
+C:\MAPGIT\XamarinForms\PPs\App02_Curriculo\Curriculo\Curriculo\Curriculo\obj\Debug\netstandard2.0\Pages\Skills.xaml.g.cs

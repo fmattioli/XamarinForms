@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:pag="clr-namespace:Curriculo.Pages"
+             x:Class="Curriculo.Master.Menu">
+    <MasterDetailPage.Master>
+        <!--Menu-->
+        <ContentPage Title="Menu" BackgroundColor="#0D1F2D">
+            <StackLayout>
+                <StackLayout BackgroundColor="#0D1F2D" Padding="30">
+                    <Image Source="Logo.png" HorizontalOptions="Center"  VerticalOptions="Center"/>
+                </StackLayout>
+                <StackLayout Spacing="30">
+                    <Button Text="Carreira" FontSize="24" TextColor="White" BackgroundColor="Transparent" Clicked="GoCarreira"></Button>
+                    <Button Text="Educacional" FontSize="24" TextColor="White" BackgroundColor="Transparent" Clicked="GoEducacional"></Button>
+                    <Button Text="Skills" FontSize="24" TextColor="White" BackgroundColor="Transparent" Clicked="GoSkills"></Button>
+                    <Button Text="Eventos" FontSize="24" TextColor="White" BackgroundColor="Transparent" Clicked="GoEventos"></Button>
+                </StackLayout>
+            </StackLayout>
+        </ContentPage>
+    </MasterDetailPage.Master>
+
+    <MasterDetailPage.Detail>
+        <!--Paginas-->
+        <NavigationPage>
+            <x:Arguments>
+                <pag:Perfil>
+
+                </pag:Perfil>
+            </x:Arguments>
+        </NavigationPage>
+    </MasterDetailPage.Detail>
+</MasterDetailPage>

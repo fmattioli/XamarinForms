@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Curriculo.Pages.Perfil">
+    <ContentPage.Content>
+        <StackLayout Spacing="0">
+            <RelativeLayout VerticalOptions="Start" HeightRequest="300">
+                <Image Source="Fundo.png" RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=1}"
+                       />
+                <Image Source="felipe.png" 
+                       x:Name="PerfilID"
+                       RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=.5, Constant=-150}"
+                       RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Factor= .2}"
+                       WidthRequest="320"
+                       />
+                <Label Text="Felipe Mattioli dos Santos"
+                       RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToView, ElementName=PerfilID, Property=X, Factor=1}"
+                       RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToView, ElementName=PerfilID, Property=Y, Factor=1, Constant=180}"
+                    />
+            </RelativeLayout>
+            <Grid HeightRequest="120" BackgroundColor="#0D1F2D">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <StackLayout Grid.Column="0" Grid.Row="0" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+                    <Label Text="22" TextColor="White" FontSize="32" />
+                    <Label Text="Age" HorizontalTextAlignment="Center" TextColor="White" FontSize="24" />
+                </StackLayout>
+                <StackLayout Grid.Column="1" Grid.Row="0" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+                    <Label Text="24/03/1998" TextColor="White" FontSize="32" />
+                    <Label Text="Borned" HorizontalTextAlignment="Center" TextColor="White" FontSize="24" />
+                </StackLayout>
+            </Grid>
+            <StackLayout Padding="30" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+                <Label Text="Graduado em análise e desenvolvimento de sistemas com MBA em engenharia de software, atualmente desenvolvo novas funcionalidades para aplicações já existentes utilizando o framework .net, corrijo e desenvolvo objetos de banco de dados utilizando o SQLServer."/>
+                <Label Text="Utilizando metodologias ágeis, participo desde a colheita do requisito até a construção da funcionalidade dentro do sistema." />
+                 
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

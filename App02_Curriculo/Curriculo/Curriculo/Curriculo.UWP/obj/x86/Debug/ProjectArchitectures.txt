@@ -1,0 +1,1 @@
+C:\MAPGIT\XamarinForms\PPs\App02_Curriculo\Curriculo\Curriculo\Curriculo.UWP\Curriculo.UWP.csproj;x86

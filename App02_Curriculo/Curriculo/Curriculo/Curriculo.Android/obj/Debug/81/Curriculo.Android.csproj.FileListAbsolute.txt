@@ -1,0 +1,5 @@
+C:\MAPGIT\XamarinForms\PPs\App02_Curriculo\Curriculo\Curriculo\Curriculo.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\MAPGIT\XamarinForms\PPs\App02_Curriculo\Curriculo\Curriculo\Curriculo.Android\obj\Debug\81\Curriculo.Android.nuget.stamp
+C:\MAPGIT\XamarinForms\PPs\App02_Curriculo\Curriculo\Curriculo\Curriculo.Android\obj\Debug\81\Curriculo.Android.csprojAssemblyReference.cache
+C:\MAPGIT\XamarinForms\PPs\App02_Curriculo\Curriculo\Curriculo\Curriculo.Android\obj\Debug\81\libraryimports.cache.stamp
+C:\MAPGIT\XamarinForms\PPs\App02_Curriculo\Curriculo\Curriculo\Curriculo.Android\obj\Debug\81\res.flag

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Curriculo.Pages.Skills">
+    <ContentPage.Content>
+        <StackLayout Spacing="0">
+            <StackLayout HeightRequest="100" BackgroundColor="#0D1F2D" Padding="10">
+                <Label Text="C# (C-Sharp)" HorizontalOptions="Center" VerticalOptions="Center" TextColor="White" FontSize="48"/>
+            </StackLayout>
+            <StackLayout Padding="10">
+                <Label Text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."/>
+            </StackLayout>
+            <StackLayout HeightRequest="100" BackgroundColor="#0D1F2D" Padding="10">
+                <Label Text="SQL Server" HorizontalOptions="Center" VerticalOptions="Center" TextColor="White" FontSize="48"/>
+            </StackLayout>
+            <StackLayout Padding="10">
+                <Label Text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."/>
+            </StackLayout>
+            <StackLayout HeightRequest="100" BackgroundColor="#0D1F2D" Padding="10">
+                <Label Text="JavaScript" HorizontalOptions="Center" VerticalOptions="Center" TextColor="White" FontSize="48"/>
+            </StackLayout>
+            <StackLayout Padding="10">
+                <Label Text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."/>
+            </StackLayout>
+        </StackLayout>
+        
+    </ContentPage.Content>
+</ContentPage>
