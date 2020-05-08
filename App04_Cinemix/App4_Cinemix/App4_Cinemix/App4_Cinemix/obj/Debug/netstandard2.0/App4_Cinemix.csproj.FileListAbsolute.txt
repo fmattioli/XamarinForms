@@ -1,0 +1,12 @@
+C:\AppsXamarin\App04_Cinemix\App4_Cinemix\App4_Cinemix\App4_Cinemix\bin\Debug\netstandard2.0\App4_Cinemix.deps.json
+C:\AppsXamarin\App04_Cinemix\App4_Cinemix\App4_Cinemix\App4_Cinemix\bin\Debug\netstandard2.0\App4_Cinemix.dll
+C:\AppsXamarin\App04_Cinemix\App4_Cinemix\App4_Cinemix\App4_Cinemix\bin\Debug\netstandard2.0\App4_Cinemix.pdb
+C:\AppsXamarin\App04_Cinemix\App4_Cinemix\App4_Cinemix\App4_Cinemix\obj\Debug\netstandard2.0\App4_Cinemix.csprojAssemblyReference.cache
+C:\AppsXamarin\App04_Cinemix\App4_Cinemix\App4_Cinemix\App4_Cinemix\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\AppsXamarin\App04_Cinemix\App4_Cinemix\App4_Cinemix\App4_Cinemix\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\AppsXamarin\App04_Cinemix\App4_Cinemix\App4_Cinemix\App4_Cinemix\obj\Debug\netstandard2.0\App4_Cinemix.csproj.CoreCompileInputs.cache
+C:\AppsXamarin\App04_Cinemix\App4_Cinemix\App4_Cinemix\App4_Cinemix\obj\Debug\netstandard2.0\App4_Cinemix.AssemblyInfoInputs.cache
+C:\AppsXamarin\App04_Cinemix\App4_Cinemix\App4_Cinemix\App4_Cinemix\obj\Debug\netstandard2.0\App4_Cinemix.AssemblyInfo.cs
+C:\AppsXamarin\App04_Cinemix\App4_Cinemix\App4_Cinemix\App4_Cinemix\obj\Debug\netstandard2.0\XamlC.stamp
+C:\AppsXamarin\App04_Cinemix\App4_Cinemix\App4_Cinemix\App4_Cinemix\obj\Debug\netstandard2.0\App4_Cinemix.dll
+C:\AppsXamarin\App04_Cinemix\App4_Cinemix\App4_Cinemix\App4_Cinemix\obj\Debug\netstandard2.0\App4_Cinemix.pdb

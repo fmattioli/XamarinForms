@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:App4_Cinemix"
+             x:Class="App4_Cinemix.MainPage">
+    <ContentPage.Content>
+        <ScrollView>
+
+
+            <StackLayout Style="{StaticResource Cabecalho}">
+                <StackLayout>
+                    <Label Text="CINEMIX" Style="{StaticResource TituloApp}"/>
+                    <Label Text="Seu app de cinema" Style="{StaticResource SubTituloApp}"/>
+                </StackLayout>
+                <StackLayout Style="{StaticResource Conteudo}">
+                    <Label Text="Lançamento" Style="{StaticResource Lancamento}"/>
+                    <Label Text="Pantera Negra" Style="{StaticResource TituloFilme}"/>
+
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+
+                            <RowDefinition Height="Auto"></RowDefinition>
+                            <RowDefinition Height="Auto"></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <Image Source="Fundo.png" Style="{StaticResource Fundo}" Grid.ColumnSpan="2" Grid.Row="0" Grid.Column="0" Aspect="AspectFill" HorizontalOptions="Center" VerticalOptions="FillAndExpand"/>
+
+                        <StackLayout Grid.Row="0"  Grid.ColumnSpan="2"  Grid.Column="0">
+                            <Image Source="Poster.png" Style="{StaticResource Poster}"/>
+                            <Label  Text="Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of 'de Finibus Bonorum et Malorum' (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, 'Lorem ipsum dolor sit amet..', comes from a line in section 1.10.32"
+                              Style="{StaticResource Sinopse}"/>
+                            <StackLayout  Style="{StaticResource Horarios}">
+                                <StackLayout BackgroundColor="#947AC4" Style="{StaticResource Horario}">
+                                    <Label Text="10:20" TextColor="White"/>
+                                </StackLayout>
+                                <StackLayout  Style="{StaticResource Horario}">
+                                    <Label Text="10:20" TextColor="White"/>
+                                </StackLayout>
+                                <StackLayout Style="{StaticResource Horario}">
+                                    <Label Text="10:20" TextColor="White"/>
+                                </StackLayout>
+                                <StackLayout Style="{StaticResource Horario}">
+                                    <Label Text="10:20" TextColor="White"/>
+                                </StackLayout>
+                            </StackLayout>
+                        </StackLayout>
+
+                        <Image  Grid.ColumnSpan="2" Source="FundoValor.png" Aspect="AspectFill" Grid.Row="1" Grid.Column="0" HorizontalOptions="Center"/>
+                        <StackLayout  Grid.Row="1" HorizontalOptions="End" Grid.Column="0" Spacing="0" Padding="10">
+                            <Label Text="MEIA" Style="{StaticResource SubTituloApp}"/>
+                            <Label Text="R$15.00" Style="{StaticResource TituloApp}"/>
+                        </StackLayout>
+                        <StackLayout  Grid.Row="1"  HorizontalOptions="Start" Grid.Column="1" Spacing="0" Padding="10">
+                            <Label Text="INTEIRA" Style="{StaticResource SubTituloApp}"/>
+                            <Label Text="R$30.00" Style="{StaticResource TituloApp}"/>
+                        </StackLayout>
+
+                    </Grid>
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+
+
+</ContentPage>
