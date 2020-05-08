@@ -1,0 +1,1 @@
+C:\MAPGIT\App01_ConsultarCep\App01_ConsultarCep\App01_ConsultarCep.UWP\App01_ConsultarCep.UWP.csproj;x86

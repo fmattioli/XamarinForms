@@ -1,0 +1,12 @@
+C:\MAPGIT\App01_ConsultarCep\App01_ConsultarCep\App01_ConsultarCep\bin\Release\netstandard2.0\App01_ConsultarCep.deps.json
+C:\MAPGIT\App01_ConsultarCep\App01_ConsultarCep\App01_ConsultarCep\bin\Release\netstandard2.0\App01_ConsultarCep.dll
+C:\MAPGIT\App01_ConsultarCep\App01_ConsultarCep\App01_ConsultarCep\bin\Release\netstandard2.0\App01_ConsultarCep.pdb
+C:\MAPGIT\App01_ConsultarCep\App01_ConsultarCep\App01_ConsultarCep\obj\Release\netstandard2.0\App01_ConsultarCep.csprojAssemblyReference.cache
+C:\MAPGIT\App01_ConsultarCep\App01_ConsultarCep\App01_ConsultarCep\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\MAPGIT\App01_ConsultarCep\App01_ConsultarCep\App01_ConsultarCep\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\MAPGIT\App01_ConsultarCep\App01_ConsultarCep\App01_ConsultarCep\obj\Release\netstandard2.0\App01_ConsultarCep.csproj.CoreCompileInputs.cache
+C:\MAPGIT\App01_ConsultarCep\App01_ConsultarCep\App01_ConsultarCep\obj\Release\netstandard2.0\App01_ConsultarCep.AssemblyInfoInputs.cache
+C:\MAPGIT\App01_ConsultarCep\App01_ConsultarCep\App01_ConsultarCep\obj\Release\netstandard2.0\App01_ConsultarCep.AssemblyInfo.cs
+C:\MAPGIT\App01_ConsultarCep\App01_ConsultarCep\App01_ConsultarCep\obj\Release\netstandard2.0\XamlC.stamp
+C:\MAPGIT\App01_ConsultarCep\App01_ConsultarCep\App01_ConsultarCep\obj\Release\netstandard2.0\App01_ConsultarCep.dll
+C:\MAPGIT\App01_ConsultarCep\App01_ConsultarCep\App01_ConsultarCep\obj\Release\netstandard2.0\App01_ConsultarCep.pdb
